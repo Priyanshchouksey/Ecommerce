@@ -65,7 +65,7 @@ const Shop = ({ shop, Filter, allcatefilter, addtocart }) => {
                         </div>
                         <div className='banner'>
                             <div className='img-box'>
-                                <img src='image/watch4.jpg' alt=''></img>
+                                <img src='image/shop_left.avif' alt=''></img>
                             </div>
                         </div>
 
@@ -73,7 +73,7 @@ const Shop = ({ shop, Filter, allcatefilter, addtocart }) => {
                     <div className='right-box'>
                         <div className='banner'>
                             <div className='img-box'>
-                                <img src='image/watch3.jpg' alt='' height='250px'></img>
+                                <img src='image/shop_top.webp' alt=''></img>
                             </div>
                         </div>
                         <div className='product-box'>
